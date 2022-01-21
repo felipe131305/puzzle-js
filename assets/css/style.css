@@ -1,0 +1,35 @@
+.divgeneral {
+    width: 70%;
+    margin: auto;
+    display: block;
+    background-color: red;
+  }
+  .div1 {
+    width: 50%;
+    float: left;
+    background-color: fuchsia;
+  }
+  .div2 {
+    width: 50%;
+    float: right;
+    background-color: gold;
+  }
+  .div3 {
+    width: 50%;
+    float: left;
+    background-color: fuchsia;
+  }
+  .div4 {
+    width: 50%;
+    float: right;
+    background-color: gold;
+  }
+  .div5 {
+    width: 80%;
+    margin: auto;
+    display: block;
+    background-color: green;
+  }
+  .tabla {
+    margin: 0 auto;
+  }
